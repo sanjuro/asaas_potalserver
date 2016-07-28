@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="integration-services-pu">
+        <class>com.backbase.launchpad.services.domain.pfm.SavingGoal</class>
+        <class>com.backbase.launchpad.services.domain.pfm.Budget</class>
+        <class>com.backbase.launchpad.services.domain.asset.AssetProperty</class>
+        <class>com.backbase.launchpad.services.domain.asset.Asset</class>
+        <class>com.backbase.launchpad.services.domain.iban.Iban</class>
+        <class>com.backbase.launchpad.services.domain.party.PartyLocation</class>
+        <class>com.backbase.launchpad.services.domain.party.PartyPreference</class>
+        <class>com.backbase.launchpad.services.domain.party.Session</class>
+        <class>com.backbase.launchpad.services.domain.party.Party</class>
+        <class>com.backbase.launchpad.services.domain.party.CounterParty</class>
+        <class>com.backbase.launchpad.services.domain.account.Transaction</class>
+        <class>com.backbase.launchpad.services.domain.account.AccountType</class>
+        <class>com.backbase.launchpad.services.domain.account.Account</class>
+        <class>com.backbase.launchpad.services.domain.account.TransactionCategory</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.EbillPayment</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.Mandate</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.Payee</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.Credential</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.DebitOrder</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.MembershipRequest</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.FinancialInstitution</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.Creditor</class>
+        <class>com.backbase.launchpad.services.domain.ebilling.EbillContract</class>
+        <class>com.backbase.launchpad.services.domain.currency.CurrencyOverallRate</class>
+        <class>com.backbase.launchpad.services.domain.message.MessageParameter</class>
+        <class>com.backbase.launchpad.services.domain.message.MessageLink</class>
+        <class>com.backbase.launchpad.services.domain.message.Message</class>
+        <class>com.backbase.launchpad.services.domain.enrollment.DocumentEnrollment</class>
+        <class>com.backbase.launchpad.services.domain.enrollment.P2PEnrollment</class>
+        <class>com.backbase.launchpad.services.domain.automation.Automation</class>
+        <class>com.backbase.launchpad.services.domain.automation.AutomationAction</class>
+        <class>com.backbase.launchpad.services.domain.automation.AutomationSelector</class>
+        <class>com.backbase.launchpad.services.domain.automation.AutomationFilter</class>
+        <class>com.backbase.launchpad.services.domain.securemessaging.Letter</class>
+        <class>com.backbase.launchpad.services.domain.securemessaging.Thread</class>
+        <class>com.backbase.launchpad.services.domain.payment.PaymentOrder</class>
+        <class>com.backbase.launchpad.services.domain.card.Card</class>
+    </persistence-unit>
+
+</persistence>

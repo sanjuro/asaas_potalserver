@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:camel="http://camel.apache.org/schema/spring"
+    xsi:schemaLocation="
+         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://camel.apache.org/schema/spring http://camel.apache.org/schema/spring/camel-spring.xsd">
+    
+
+    <!-- ASAAS TASKS -->
+    <bean id="addAsaasDetailProcessor" class="com.trexis.asaas.AddAsaasDetailProcessor"/> 
+    <bean id="checkAsaasAuthenticationProcessor" class="com.trexis.asaas.CheckAsaasAuthenticationProcessor"/> 
+    
+	<camel:routeContext id="com.backbase.portal.integration.service.AsaasService" xmlns="http://camel.apache.org/schema/spring">
+		<route>
+			<from uri="restlet:/v1/asaas/authenticateUser" />
+			<doTry>
+<!-- 				<process ref="checkAsaasAuthenticationProcessor"/> -->
+				<process ref="addAsaasDetailProcessor"/>
+				<setBody>
+					<simple>
+						{"status":"success", "data":${body}}
+					</simple>
+				</setBody>
+				<doCatch>
+					<exception>java.lang.Exception</exception>
+                    <setBody>
+                        <simple>
+                            {"status":"error", "message" : "${exception.message}"}
+                        </simple>
+                    </setBody>
+				</doCatch>
+                <doFinally>
+                    <setHeader headerName="Content-Type">
+                        <simple>application/json; charset=UTF-8</simple>
+                    </setHeader>
+                </doFinally>
+			</doTry>
+		</route>
+	</camel:routeContext>
+	
+</beans>

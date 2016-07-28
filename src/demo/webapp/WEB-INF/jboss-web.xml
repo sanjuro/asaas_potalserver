@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jboss-web>
+
+    <resource-ref>
+        <res-ref-name>jdbc/portalDS</res-ref-name>
+        <res-type>javax.sql.DataSource</res-type>
+        <mapped-name>jdbc/portalDS</mapped-name>
+        <res-auth>Container</res-auth>
+        <jndi-name>java:/jdbc/portalDS</jndi-name>
+    </resource-ref>
+
+    <resource-ref>
+        <res-ref-name>jdbc/auditDS</res-ref-name>
+        <res-type>javax.sql.DataSource</res-type>
+        <mapped-name>jdbc/auditDS</mapped-name>
+        <res-auth>Container</res-auth>
+        <jndi-name>java:/jdbc/auditDS</jndi-name>
+    </resource-ref>
+
+    <resource-ref>
+        <res-ref-name>jdbc/integration</res-ref-name>
+        <res-type>javax.sql.DataSource</res-type>
+        <mapped-name>jdbc/integration</mapped-name>
+        <res-auth>Container</res-auth>
+        <jndi-name>java:/jdbc/integration</jndi-name>
+    </resource-ref>
+
+
+    <resource-env-ref>
+        <resource-env-ref-name>backbase/config</resource-env-ref-name>
+        <jndi-name>java:/backbase/config</jndi-name>
+    </resource-env-ref>
+
+</jboss-web>

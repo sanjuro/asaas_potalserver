@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bloomberg Now</title>
+	<atom:link href="http://www.bloomberg.com/now/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.bloomberg.com/now</link>
+	<description>Bloomberg Now is your source for what&#039;s happening at Bloomberg L.P. Access blog posts, press releases, leadership bios, facts, experts, and contacts.</description>
+	<lastBuildDate>Tue, 12 Aug 2014 12:12:34 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>EMIR II: A NEW MILESTONE ON THE ROAD TO DERIVATIVES MARKET REFORM</title>
+		<link>http://www.bloomberg.com/now/2014-08-11/emir-ii-new-milestone-road-derivatives-market-reform/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=emir-ii-new-milestone-road-derivatives-market-reform</link>
+		<comments>http://www.bloomberg.com/now/2014-08-11/emir-ii-new-milestone-road-derivatives-market-reform/#comments</comments>
+		<pubDate>Mon, 11 Aug 2014 08:30:26 +0000</pubDate>
+		<dc:creator><![CDATA[nharland1]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=17341</guid>
+		<description><![CDATA[<p>Today marks another important regulatory milestone in delivering the derivatives market reform promised by the G20 Leaders in 2009. Under the second phase of European Market Infrastructure Regulation (EMIR), mandatory daily reporting of derivative contract valuations and associated collateral comes into effect on this date for all entities trading in ... <a class="moretag" href="http://www.bloomberg.com/now/2014-08-11/emir-ii-new-milestone-road-derivatives-market-reform/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-11/emir-ii-new-milestone-road-derivatives-market-reform/">EMIR II: A NEW MILESTONE ON THE ROAD TO DERIVATIVES MARKET REFORM</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Today marks another important regulatory milestone in delivering the derivatives market reform promised by the G20 Leaders in 2009. Under the second phase of European Market Infrastructure Regulation (EMIR), mandatory daily reporting of derivative contract valuations and associated collateral comes into effect on this date for all entities trading in Europe.</p>
+<p>Like its U.S. sibling the Dodd-Frank Act, EMIR is designed to improve stability in the global over-the-counter (OTC) derivatives market. This latest phase of its implementation is intended to improve transparency around counterparty exposures and collateralization practices in derivatives trading, ultimately giving regulators a more accurate means of monitoring counterparty risk exposures and identifying potential market abuse.</p>
+<p>As of today, all financial and non-financial counterparties above the clearing threshold, from buy-side institutions to sell-side banks, are required to submit daily reports to trade repositories with mark-to-market valuations of their outstanding derivative exposures to their counterparties. They will also have to report associated collateral that has been exchanged, either for individual contracts or on a portfolio basis.</p>
+<p>Firms must collate, reconcile and consolidate an array of disparate information from multiple trading and valuation systems on a daily basis, impacting operational processing on a fundamental level. For smaller financial counterparties in particular, the additional workload associated is considerable; many are undertaking this level and frequency of reporting for the first time.</p>
+<p>Back in February, we moved quickly to provide clients with a solution to meet preliminary reporting requirements under the <a href="http://www.bloomberg.com/now/2014-02-06/regulation-2014-emir/">first phase of EMIR</a>. Now, Bloomberg&#8217;s updated EMIR reporting solution offers a single, integrated workflow, covering all asset classes, to enable clients to comply with the new and unprecedented reporting requirements while minimizing disruption to their daily operations.</p>
+<p>With our transparent, independent valuation service, BVAL Derivatives, Bloomberg is well positioned to execute the complex derivatives valuations and dispute reconciliations required under EMIR on behalf of our customers and integrate these straight into the daily reporting workflow. Any trades executed on the Bloomberg Professional service can be independently valued and seamlessly reported directly to a client&#8217;s preferred trade repository.</p>
+<p>All of Bloomberg&#8217;s proprietary electronic trading platforms are integrated into the EMIR reporting system. We can also report trades from our buy-side order management system, Bloomberg Asset and Investment Manager (AIM).</p>
+<p>Those clients opting to delegate trade reporting to sell-side banks are also supported: valuations contributed by third parties or performed by clients themselves can be uploaded and reported. Equally, trades executed outside of the Bloomberg environment can be reported over Bloomberg using simple integration feeds and upload tools.</p>
+<p>Bloomberg supports the transition towards a more transparent, stable OTC derivatives market and, with further deadlines and challenges anticipated over the next 18 months, we will continue to innovate in order to ease our clients&#8217; journey along the road to compliance.</p>
+<p><em>Jose Ribas, Global Head of Derivatives &amp; Structured Notes at Bloomberg L.P</em></p>
+<p><a href="http://bit.ly/1B08eKQ">Bloomberg BRIEF&#8217;s Financial Regulation team has published a special issue offering commentary, data and analysis on the new collateral and valuation reporting requirements under EMIR. Access the full report here. </p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-11/emir-ii-new-milestone-road-derivatives-market-reform/">EMIR II: A NEW MILESTONE ON THE ROAD TO DERIVATIVES MARKET REFORM</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-08-11/emir-ii-new-milestone-road-derivatives-market-reform/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GPIF reform shaping the Japanese economy</title>
+		<link>http://www.bloomberg.com/now/2014-08-06/gpif-reform-shaping-japanese-economy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gpif-reform-shaping-japanese-economy</link>
+		<comments>http://www.bloomberg.com/now/2014-08-06/gpif-reform-shaping-japanese-economy/#comments</comments>
+		<pubDate>Wed, 06 Aug 2014 22:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[abenjamin5]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=17327</guid>
+		<description><![CDATA[<p>With ongoing reforms in the Japanese economy continuing to be a hot topic globally, a high profile seminar hosted by Bloomberg in Tokyo this week focused on one of the core elements of Japan’s growth strategy – reforms to the Government Pension Investment Fund (GPIF). With USD 1.2 trillion under ... <a class="moretag" href="http://www.bloomberg.com/now/2014-08-06/gpif-reform-shaping-japanese-economy/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-06/gpif-reform-shaping-japanese-economy/">GPIF reform shaping the Japanese economy</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<div style="color: #000000">
+<p>With ongoing reforms in the Japanese economy continuing to be a hot topic globally, a high profile seminar hosted by Bloomberg in Tokyo this week focused on one of the core elements of Japan’s growth strategy – reforms to the Government Pension Investment Fund (GPIF).</p>
+<p>With USD 1.2 trillion under management, GPIF is the largest pension fund in the world and any reforms to its focus and actions can have a significant impact on the structure of the Japanese economy and on markets.</p>
+<p>Prime Minister Shinzo Abe recently announced reforms that would expand GPIF’s Board. Market watchers are closely monitoring whether GPIF will also take a stronger position in higher yielding assets beyond its government bonds focus.</p>
+<p>At the seminar, which was webcast live from Tokyo to Bloomberg offices in London, Singapore and Hong Kong, Mr. Yasuhisa Shiozaki, Member House of Representatives and Acting Chairman of Japan’s ruling Liberal Democratic Party spoke indepth on Japan’s economic revival and GPIF reform.</p>
+<p>Mr. Shiozaki said that GPIF governance reform is paramount and emphasized that reforms can drive corporate governance improvements and raise Japan’s ROE.</p>
+<p>Other speakers representing academia, business and financial markets were Mr. Yasuyuki Konuma, Executive Officer (New Listings and Market Business Development), Tokyo Stock Exchange; Professor Takatoshi Ito, Professor of the National Graduate Institute of Policy Studies and Project Professor at the Graduate School of Public Policy from the University of Tokyo and the President and CEO of SPARX Group, Mr. Shuhei Abe.</p>
+<p>Panelists commented that GPIF reform was likely to proceed over the long-term. They also noted that GPIF&#8217;s ability to potentially invest directly into companies will elevate shareholder status, motivate companies to generate greater earnings and returns, and boost Japan’s overall competitiveness.</p>
+<p>Bloomberg has had a strong presence in Tokyo over the last 25 years. With more global attention on Japan’s economic reform than seen in the past decade, we’re bringing the most critical themes on Japan to the rest of the world through our real-time financial data, news and analytics delivered to market-makers around the globe.</p>
+</div>
+<div style="color: #000000">Seminar video here: <a href="http://bloom.bg/1pacItA">http://bloom.bg/1pacItA</a></div>
+<div style="color: #000000"></div>
+<div style="color: #000000"><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/mr.-yasuhisa-shiozaki-member-house-of-representatives-and-acting-chairman-policy-council-japanâ€™s-liberal-democratic-party.jpg"><img class="alignnone size-medium wp-image-17329" src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/mr.-yasuhisa-shiozaki-member-house-of-representatives-and-acting-chairman-policy-council-japanâ€™s-liberal-democratic-party-290x194.jpg" alt="JAPAN GPIF" width="290" height="194" /></a></div>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-06/gpif-reform-shaping-japanese-economy/">GPIF reform shaping the Japanese economy</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-08-06/gpif-reform-shaping-japanese-economy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Economists Delight &#8211; ISM Purchasing Managers Index on Bloomberg</title>
+		<link>http://www.bloomberg.com/now/2014-08-05/economists-delight-ism-purchasing-managers-index-bloomberg/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=economists-delight-ism-purchasing-managers-index-bloomberg</link>
+		<comments>http://www.bloomberg.com/now/2014-08-05/economists-delight-ism-purchasing-managers-index-bloomberg/#comments</comments>
+		<pubDate>Tue, 05 Aug 2014 19:21:04 +0000</pubDate>
+		<dc:creator><![CDATA[abenjamin5]]></dc:creator>
+				<category><![CDATA[Professional Service]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=17201</guid>
+		<description><![CDATA[<p>Purchasing Manager Indexes on the Bloomberg Professional service now come in another flavor. The Institute for Supply Management (ISM) is distributing its Report on Business, featuring its Manufacturing and Non-Manufacturing Purchasing Managers Indexes, directly through Bloomberg. This development allows more timely access by Bloomberg’s more than 320,000 subscribers to this ... <a class="moretag" href="http://www.bloomberg.com/now/2014-08-05/economists-delight-ism-purchasing-managers-index-bloomberg/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-05/economists-delight-ism-purchasing-managers-index-bloomberg/">Economists Delight &#8211; ISM Purchasing Managers Index on Bloomberg</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Purchasing Manager Indexes on the Bloomberg Professional service now come in another flavor. The Institute for Supply Management (ISM) is distributing its Report on Business, featuring its Manufacturing and Non-Manufacturing Purchasing Managers Indexes, directly through Bloomberg. This development allows more timely access by Bloomberg’s more than 320,000 subscribers to this market-moving private data release.</p>
+<p>ISM has been providing an early look at the economy since 1931, minus a four year hiatus during World War II. The ISM Manufacturing Report on Business combines data from purchasing and supply executives throughout the country. The data is compiled from purchasing and supply executives nationwide through a confidential questionnaire designed to reveal changes in several factors, including employment, prices, changes in production and commodities.</p>
+<p>One of the leading indicators of national economic conditions, ISM publishes its reports at the beginning of each month. This provides economists and investment professionals with an important data point in measuring sentiment, and is considered a leading indicator of national economic conditions.</p>
+<p>Bloomberg is pleased to add ISM to the expanding number of real-time, market-moving economic indicators available on our economics calendar and analytics, including Bloomberg’s Economics Workbench. The Workbench provides extensive national and global economic analytics, including deep examination by Bloomberg’s team of economists.</p>
+<p><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/ISM_2again.jpg"><img class="alignnone  wp-image-17321" src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/ism-chart.jpg" alt="ISM" width="450" height="287" /></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-05/economists-delight-ism-purchasing-managers-index-bloomberg/">Economists Delight &#8211; ISM Purchasing Managers Index on Bloomberg</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-08-05/economists-delight-ism-purchasing-managers-index-bloomberg/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Africa Rising: Analyzing Opportunities and Challenges</title>
+		<link>http://www.bloomberg.com/now/2014-08-05/africa-rising-analyzing-opportunities-challenges/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=africa-rising-analyzing-opportunities-challenges</link>
+		<comments>http://www.bloomberg.com/now/2014-08-05/africa-rising-analyzing-opportunities-challenges/#comments</comments>
+		<pubDate>Tue, 05 Aug 2014 12:14:23 +0000</pubDate>
+		<dc:creator><![CDATA[sdoyle37]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=17169</guid>
+		<description><![CDATA[<p>The future of Africa&#8217;s economic success story takes center stage today at the U.S.-Africa Business Forum hosted by Bloomberg Philanthropies and the U.S. Department of Commerce in Washington D.C. The Forum is a signature event of President Obama&#8217;s historic U.S.-Africa Leadership Summit and brings both African heads of government and ... <a class="moretag" href="http://www.bloomberg.com/now/2014-08-05/africa-rising-analyzing-opportunities-challenges/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-05/africa-rising-analyzing-opportunities-challenges/">Africa Rising: Analyzing Opportunities and Challenges</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The future of Africa&#8217;s economic success story takes center stage today at the <a href="http://usafricabusinessforum.bloomberg.org/#/" target="_blank">U.S.-Africa Business Forum</a> hosted by Bloomberg Philanthropies and the U.S. Department of Commerce in Washington D.C. The Forum is a signature event of President Obama&#8217;s historic U.S.-Africa Leadership Summit and brings both African heads of government and the U.S. business community to the table as they engage in ways to strengthen trade, forge business relationships, debate policy and promote mutually beneficial interaction.</p>
+<p>As part of the Forum, <a href="http://www.bloomberg.com/professional/news-research/intelligence/" target="_blank">Bloomberg Intelligence</a> (BI), the research arm of Bloomberg L.P., presents &#8220;Africa Rising 2014&#8243;, a publication analyzing the continent&#8217;s economic opportunities and challenges. The team of more than 150 research professionals has looked at data from 130 industries and thousands of companies worldwide that are central to Africa&#8217;s growth and prosperity. These early analyses include a view of the big economic picture, as well as deep dives into Africa&#8217;s communications, consumer, energy, financial, materials and utilities sectors. In addition, this sampling highlights analysis from BI&#8217;s government, legal, environmental and governance teams with the aim of helping both governments and business understand Africa&#8217;s promise.</p>
+<p>You can view the full version of &#8220;Africa Rising 2014&#8243; <a href="http://www.bloomberg.com/professional/content/uploads/sites/2/2014/08/Africa-Rising-2014.pdf" target="_blank">here</a> and watch a live stream of events at the U.S.-Africa Business Forum <a href="http://usafricabusinessforum.bloomberg.org/#/videos/live-stream" target="_blank">here</a>.</p>
+<p><a href="http://www.bloomberg.com/professional/content/uploads/sites/2/2014/08/Africa-Rising-2014.pdf"><img src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/Africa-Rising-Image-589x397.png" alt="Africa Rising Image" width="589" height="397" class="aligncenter size-large wp-image-17173" /></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-05/africa-rising-analyzing-opportunities-challenges/">Africa Rising: Analyzing Opportunities and Challenges</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-08-05/africa-rising-analyzing-opportunities-challenges/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lest We Forget: Bloomberg Commemorates WW I</title>
+		<link>http://www.bloomberg.com/now/2014-08-04/bloomberg-commemorates-first-world-war-centenary/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bloomberg-commemorates-first-world-war-centenary</link>
+		<comments>http://www.bloomberg.com/now/2014-08-04/bloomberg-commemorates-first-world-war-centenary/#comments</comments>
+		<pubDate>Mon, 04 Aug 2014 04:01:52 +0000</pubDate>
+		<dc:creator><![CDATA[meisenreich2]]></dc:creator>
+				<category><![CDATA[Philanthropy]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=17145</guid>
+		<description><![CDATA[<p>Today marks 100 years since the outbreak of the First World War. An estimated 16 million soldiers and civilians lost their lives and countless others were wounded in the conflict which altered the world&#8217;s social and political landscape forever. Bloomberg employees in London are marking this key moment in world ... <a class="moretag" href="http://www.bloomberg.com/now/2014-08-04/bloomberg-commemorates-first-world-war-centenary/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-04/bloomberg-commemorates-first-world-war-centenary/">Lest We Forget: Bloomberg Commemorates WW I</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Today marks 100 years since the outbreak of the First World War. An estimated 16 million soldiers and civilians lost their lives and countless others were wounded in the conflict which altered the world&#8217;s social and political landscape forever.</p>
+<p>Bloomberg employees in London are marking this key moment in world history with a diverse program of activities to recognize the scale and sacrifice of the First World War.</p>
+<p><strong>Moment of Reflection: LIGHTS OUT</strong></p>
+<p>At 10pm BST tonight, Bloomberg&#8217;s European headquarters in London will join thousands of iconic buildings, landmarks and institutions across the UK in a shared moment of reflection as they turn off their lights to mark the outbreak of war. Other participants in the <a href="http://www.1418now.org.uk/lights-out/what-is-lights-out/" target="_blank">LIGHTS OUT</a> project include the Houses of Parliament, Tate, the Imperial War Museums, Wales Millennium Centre, Old Trafford, the National History Museum and St Pauls’ Cathedral. Individuals are encouraged to take part too, find out more <a href="http://www.1418now.org.uk/lights-out/what-is-lights-out/" target="_blank">here</a>.</p>
+<p><strong>The Tower of London Remembers</strong></p>
+<p>In July, 388 Bloomberg employees volunteered a combined total of 1480 hours to help deliver a remarkable commemorative installation, &#8216;Blood Swept Lands and Seas of Red&#8217;, at the Tower of London. 888,246 ceramic poppies &#8211; one for every fallen soldier from Britain and the Commonwealth &#8211; have been &#8216;planted&#8217; in the dry moat around the famous landmark, 10,000 of which were put in place by Bloomberg staff.</p>
+<p><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/bloomberg_poppies_073.jpg"><img src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/bloomberg_poppies_073-592x394.jpg" alt="Bloomberg Volunteers" width="592" height="394" /></a></p>
+<p>The final installation, designed by artist Paul Cummins in conjunction with celebrated designer Tom Piper, will be unveiled tomorrow, August 5, one hundred  years since the first full day of Britain&#8217;s involvement in the First World War. Each handmade poppy is unique and will be sold to the public to raise funds for six service charities: Confederation of Service Charities (COBSEO), Combat Stress, Coming Home, Help for Heroes, Royal British Legion and SSAFA. Find out more <a href="http://www.hrp.org.uk/TowerOfLondon/stories/firstworldwar/TheTowerofLondonRemembers" target="_blank">here</a>.</p>
+<p><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/img_0001.jpg"><img src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/img_0001-592x166.jpg" alt="img_0001" width="592" height="166" /></a></p>
+<p><strong>Veteran Support</strong></p>
+<p>There are an estimated five million veterans in the UK, and a further 20,000 personnel leave the Armed Forces each year. Transition to civilian life can be daunting for the thousands of skilled and experienced individuals who find themselves unemployed after leaving service. Through its partnership with UK charity <a href="http://www.hireaherouk.org/" target="_blank">Hire a Hero</a>, Bloomberg is offering employees the opportunity to mentor an ex-serviceman or woman as they seek civilian employment.</p>
+<p>In recognition of the skills, talents and attributes service leavers possess, Bloomberg is also developing an internship program to provide ex-military personnel work experience and potential employment opportunities at Bloomberg, and in the broader private sector. </p>
+<p><strong>Cultural Commemoration</strong></p>
+<p>The UK’s official centenary commemorations includes <a href="http://www.1418now.org.uk/" target="_blank">14-18 NOW</a>, a rich program of special cultural commissions selected to encourage people to reflect on how World War I has shaped today&#8217;s world. Bloomberg Philanthropies is proud to be part of the programme through its support of Dazzle Ship London, a major new public art work created by leading artist Tobias Rehberger  who has transformed London’s HMS President, an original WWI warship now docked on the Thames, by covering it entirely in ‘dazzle camouflage’ print.</p>
+<p><div id="attachment_17357" class="wp-caption aligncenter" style="width: 592px"><img src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/08/BENP_GETTY_DAZZLE21-592x393.jpg" alt="(Photo by Ben A. Pruchnie/Getty Images for Bolton &amp; Quinn)" width="592" height="393" class="size-large wp-image-17357" /><p class="wp-caption-text">(Photo by Ben A. Pruchnie/Getty Images for Bolton &amp; Quinn)</p></div></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-08-04/bloomberg-commemorates-first-world-war-centenary/">Lest We Forget: Bloomberg Commemorates WW I</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-08-04/bloomberg-commemorates-first-world-war-centenary/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bloomberg Forms Alliance With Bay Area Tech Community</title>
+		<link>http://www.bloomberg.com/now/2014-07-17/bloomberg-forms-alliance-with-bay-area-tech-community/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bloomberg-forms-alliance-with-bay-area-tech-community</link>
+		<comments>http://www.bloomberg.com/now/2014-07-17/bloomberg-forms-alliance-with-bay-area-tech-community/#comments</comments>
+		<pubDate>Thu, 17 Jul 2014 18:01:33 +0000</pubDate>
+		<dc:creator><![CDATA[meisenreich2]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=17071</guid>
+		<description><![CDATA[<p>By Mike Bloomberg and originally posted on LinkedIn I’ve always believed that talent attracts capital far more effectively than capital attracts talent – and that’s why I’m in San Francisco today to help Bloomberg LP, the tech company I founded 33 years ago, open a new R&#38;D office for software ... <a class="moretag" href="http://www.bloomberg.com/now/2014-07-17/bloomberg-forms-alliance-with-bay-area-tech-community/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-17/bloomberg-forms-alliance-with-bay-area-tech-community/">Bloomberg Forms Alliance With Bay Area Tech Community</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em>By <a href="http://mikebloomberg.com/" target="_blank">Mike Bloomberg</a> and originally posted on <a href="https://www.linkedin.com/today/post/article/20140717174101-32503052-bloomberg-forms-alliance-with-bay-area-tech-community?trk=prof-post" target="_blank">LinkedIn</a></em></p>
+<p>I’ve always believed that talent attracts capital far more effectively than capital attracts talent – and that’s why I’m in San Francisco today to help <a href="http://www.bloomberg.com/company" target="_blank">Bloomberg LP</a>, the tech company I founded 33 years ago, open a new R&amp;D office for software developers.</p>
+<p>The Bay Area is home to the world’s largest concentration of digital talent, creativity, and expertise.  Bloomberg has offices in 192 locations around the world, including San Francisco. But the vast majority of our developers work in New York City.  We’re proud of our New York roots, and during my years as the city’s mayor, our administration helped spur major growth in the tech industry.  In fact, our growth rate was about twice as large as it was in Silicon Valley and Boston.</p>
+<p>But Bloomberg is a global company, and as we have grown over the past decade and expanded our ambitions, our tech needs have grown, too.  To remain on the cutting-edge, we need to be able to hire the most talented developers from Silicon Valley and its surroundings – and be part of the R&amp;D conversation happening in the community there.  The new office we’re opening, which shares a building with Yelp, will eventually employ nearly 100 developers who will help further our core mission:  providing the most reliable up-to-the-second news and information on markets and the people and events that move them.</p>
+<p>We have always been a company that values developers, and they have been critical to our most disruptive innovations.  Before the internet existed, we were connecting people to vast quantities of digital financial data.  And before email had become common, we created the world’s first social network, an instant-messaging system that allowed our clients to communicate with one-another in real time.</p>
+<p><A href="http://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773/" target="_blank"><img src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/The-Alliance2-194x194.jpg" alt="The Alliance" width="194" height="194" class="alignleft size-medium wp-image-17079" /></a>Our instant-messaging system is a great example of what LinkedIn’s founder, <a href="http://reidhoffman.org/" target="_blank">Reid Hoffman</a>, calls “network intelligence,” in an insightful new book he’s written with Ben Casnocha and Chris Yeh called, <a href="http://www.amazon.com/Alliance-Managing-Talent-Networked-Age/dp/1625275773/" target="_blank"><em>The Alliance: Managing Talent in the Networked Age</em></a>.  The book is a quick read – at only 155 pages, it’s faster than watching The Wolf of Wall Street, and only slightly more expensive.  (I’m sure Leonardo DiCaprio is angling to play Reid in the movie version.)</p>
+<p>The book contains stories and lessons that can benefit organizations of every stripe, not only private companies but also nonprofits and governments.  In fact, a number of stories mirror Bloomberg LP’s experience, like the story of John Lasseter.  In the mid-1980s, Lasseter was fired by Disney for proposing that the company move into computer-generated animation.  Two decades later, Disney purchased the company Lasseter helped build &#8211; Pixar &#8211; for $7 billion.  Firing Lasseter was an expensive mistake, but it’s the kind of mistake that companies make all too often.  And some never recover.</p>
+<p>The Wall Street firm where I spent the first 15 years of my career wasn’t too interested in my idea for computerizing financial data.  Getting fired in 1981 not only gave me the opportunity to start my own company, it taught me an invaluable lesson that remains a vital part of Bloomberg’s culture: Great ideas can come from within organizations, and it’s up to managers to encourage them – and take them seriously.  Too often senior managers think they know best, especially in organizations that are riding high.  It’s a common organizational flaw that can be costly or even deadly.</p>
+<p><em>The Alliance</em> offers useful strategies for combatting this kind of complacency and creating environments where innovation flourishes.  As the authors explain, it all comes down to people.  The implied social contract that once existed between large companies and their workers has been replaced by something that &#8211; though less secure &#8211; can be more rewarding and fulfilling.  But that’s true only if employers understand how to maximize their most valuable asset &#8211; people &#8211; by building a culture where trust and teamwork are prized, where empowerment and innovation go hand-in-hand, and where opportunities for professional growth are everyday occurrences.</p>
+<p>Many of the most successful entrepreneurs and managers in Silicon Valley and New York City understand these dynamics, but none have made them as easy to grasp as Reid and his co-authors.  Their book deserves a big audience – just don’t wait for the movie version.  And if you are a developer in the Bay Area who wants to work for a company that embraces the lessons in their book, send us your resume &#8211; <a href="http://www.bloomberg.com/rd/" target="_blank">we’re hiring</a>.</p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-17/bloomberg-forms-alliance-with-bay-area-tech-community/">Bloomberg Forms Alliance With Bay Area Tech Community</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-07-17/bloomberg-forms-alliance-with-bay-area-tech-community/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bloomberg PolarLake ranked “Best EDM Systems Provider” by Waters Technology readers</title>
+		<link>http://www.bloomberg.com/now/2014-07-17/bloomberg-polarlake-ranked-best-edm-systems-provider-waters-technology-readers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bloomberg-polarlake-ranked-best-edm-systems-provider-waters-technology-readers</link>
+		<comments>http://www.bloomberg.com/now/2014-07-17/bloomberg-polarlake-ranked-best-edm-systems-provider-waters-technology-readers/#comments</comments>
+		<pubDate>Thu, 17 Jul 2014 08:52:37 +0000</pubDate>
+		<dc:creator><![CDATA[nharland1]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=17061</guid>
+		<description><![CDATA[<p>Two years ago, when PolarLake was acquired by Bloomberg, we were sure the synergy of our technology and Bloomberg’s 30 years of experience would breed a successful partnership. Since 2012, we have been executing an ambitious development plan to enhance our infrastructure and expand our data operations to meet clients&#8217; ... <a class="moretag" href="http://www.bloomberg.com/now/2014-07-17/bloomberg-polarlake-ranked-best-edm-systems-provider-waters-technology-readers/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-17/bloomberg-polarlake-ranked-best-edm-systems-provider-waters-technology-readers/">Bloomberg PolarLake ranked “Best EDM Systems Provider” by Waters Technology readers</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Two years ago, when PolarLake was acquired by Bloomberg, we were sure the synergy of our technology and Bloomberg’s 30 years of experience would breed a successful partnership. Since 2012, we have been executing an ambitious development plan to enhance our infrastructure and expand our data operations to meet clients&#8217; growing need for more effective, efficient data management services. </p>
+<p>We have grown from a Dublin-based software provider with leading technology to a global EDM Managed Service provider with operations in Asia, North America and Europe. As a result, an increasingly diverse range of global financial firms now rely on our robust, customizable Managed Data Service to reduce costs, increase data quality and make their data management more efficient, effective and integrated. This managed service has grown to include many of the world&#8217;s leading data vendors.</p>
+<p>Yesterday, we were named “Best EDM Systems Provider” by Waters Technology’s readers as part of the 2014 Waters Technology Rankings. Industry recognition is important to us. It shows we are achieving our goal of meeting the requirements of a next generation of EDM Managed Service users facing new and complex data challenges, including data governance and data quality reporting to meet compliance obligations mandated by regulators across the globe.</p>
+<p>Financial institutions are increasingly looking for ways to deploy the optimal combination of people, process and technology to acquire, manage and distribute data while minimizing costs and meeting business needs and compliance obligations. Our approach offers the ability to execute both effective common data processing and client specific data rules while preserving our clients&#8217; business DNA and intellectual property. Today&#8217;s recognition is an important affirmation that this unique approach is valued by our growing client base and industry peers alike.</p>
+<p><strong>John Randles, CEO, Bloomberg PolarLake</strong></p>
+<p><div id="attachment_17065" class="wp-caption alignnone" style="width: 161px"><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/Waters-Award-Pic.png"><img src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/Waters-Award-Pic-161x194.png" alt="Bloomberg PolarLake CEO John Randles receives Waters Technology award in New York. Pictured with retired baseball star Doc Gooden. " width="161" height="194" class="size-medium wp-image-17065" /></a><p class="wp-caption-text">Bloomberg PolarLake CEO John Randles receives Waters Technology award in New York. Pictured with retired baseball star Doc Gooden.</p></div></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-17/bloomberg-polarlake-ranked-best-edm-systems-provider-waters-technology-readers/">Bloomberg PolarLake ranked “Best EDM Systems Provider” by Waters Technology readers</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-07-17/bloomberg-polarlake-ranked-best-edm-systems-provider-waters-technology-readers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Colombia&#8217;s James Rodriguez Tops Bloomberg&#8217;s World Cup &#8216;Power 25&#8242; List</title>
+		<link>http://www.bloomberg.com/now/2014-07-11/columbias-james-rodriguez-tops-bloombergs-world-cup-power-25-list/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=columbias-james-rodriguez-tops-bloombergs-world-cup-power-25-list</link>
+		<comments>http://www.bloomberg.com/now/2014-07-11/columbias-james-rodriguez-tops-bloombergs-world-cup-power-25-list/#comments</comments>
+		<pubDate>Fri, 11 Jul 2014 16:54:56 +0000</pubDate>
+		<dc:creator><![CDATA[lmeller]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=17015</guid>
+		<description><![CDATA[<p>Bloomberg Sports (BSports) released a World Cup edition of its &#8216;Power 25&#8242; rankings, and Colombia&#8217;s James Rodriguez has topped the list with a BSports rating of 83.84. France&#8217;s Karim Benzema is currently second with 83.24. Germay&#8217;s Thomas Muller is third with 82.82, while Argentina’s Lionel Messi is fourth with 82.25. ... <a class="moretag" href="http://www.bloomberg.com/now/2014-07-11/columbias-james-rodriguez-tops-bloombergs-world-cup-power-25-list/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-11/columbias-james-rodriguez-tops-bloombergs-world-cup-power-25-list/">Colombia&#8217;s James Rodriguez Tops Bloomberg&#8217;s World Cup &#8216;Power 25&#8242; List</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/power-25.jpg"><img src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/power-25.jpg" alt="BSports Power 25" width="980" height="850" class="aligncenter size-full wp-image-17017" /></a></p>
+<p>Bloomberg Sports (BSports) released a World Cup edition of its &#8216;Power 25&#8242; rankings, and Colombia&#8217;s James Rodriguez has topped the list with a BSports rating of 83.84. France&#8217;s Karim Benzema is currently second with 83.24. Germay&#8217;s Thomas Muller is third with 82.82, while Argentina’s Lionel Messi is fourth with 82.25. </p>
+<p>The index covers the entire World Cup, highlighting the performances of players in the most successful teams, along with some top performers in teams that crashed out earlier in the competition. It is a purely objective analysis of players in their respective positions and considers the context of opponent strength in each game throughout World Cup.  </p>
+<p>The top 25 players can be found at <a href="http://www.bsports.com/Power25">www.bsports.com/Power25</a> along with a more detailed explanation of the methodology and a visual breakdown of the list. The index will also be updated after the World Cup final. </p>
+<p>For BSports projections on the final matches visit <a href="http://www.bloomberg.com/worldcup">http://www.bloomberg.com/worldcup</a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-11/columbias-james-rodriguez-tops-bloombergs-world-cup-power-25-list/">Colombia&#8217;s James Rodriguez Tops Bloomberg&#8217;s World Cup &#8216;Power 25&#8242; List</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-07-11/columbias-james-rodriguez-tops-bloombergs-world-cup-power-25-list/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Empowering Students with Real-World Knowledge</title>
+		<link>http://www.bloomberg.com/now/2014-07-11/universities-next-emerging-market/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=universities-next-emerging-market</link>
+		<comments>http://www.bloomberg.com/now/2014-07-11/universities-next-emerging-market/#comments</comments>
+		<pubDate>Fri, 11 Jul 2014 14:01:01 +0000</pubDate>
+		<dc:creator><![CDATA[mvarallo]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=16973</guid>
+		<description><![CDATA[<p>In a challenging and uncertain global job market, bridging the gap between theory and practice has become a top priority for universities looking to arm students with a competitive edge. In the world of business and finance in particular, today&#8217;s graduates must be both technically and intellectually savvy to succeed ... <a class="moretag" href="http://www.bloomberg.com/now/2014-07-11/universities-next-emerging-market/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-11/universities-next-emerging-market/">Empowering Students with Real-World Knowledge</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/SMU-Cox-School-of-Business_lrg.jpg"><img src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/SMU-Cox-School-of-Business_lrg.jpg" alt="Why Universities are our Next Emerging Market" width="552" height="382" class="aligncenter size-full wp-image-16999" /></a></p>
+<p>In a challenging and uncertain global job market, bridging the gap between theory and practice has become a top priority for universities looking to arm students with a competitive edge. In the world of business and finance in particular, today&#8217;s graduates must be both technically and intellectually savvy to succeed beyond the classroom environment. It&#8217;s no wonder a growing number of universities are turning to Bloomberg’s market-leading platform to enrich their curriculums and empower students with a practical learning experience.</p>
+<p>The Bloomberg Professional service (or “terminal”) is in classrooms at nearly 800 universities and business schools worldwide. The students sitting at those keyboards, whether they’re at Stanford, Oxford’s Said Business School, Indian Institute of Management, Udaipur, India, or NUS Business School in Singapore, are gaining exposure to and first hand practical experience in interpreting the same information platform used by leading decision makers in business, finance and government worldwide, often one or two years ahead of their peers heading into the workforce.</p>
+<p>“We are giving students marketable, real-world skills,” says Bloomberg for Education Sales Advocate Lindsay Coss, who is based in San Francisco. “We get students – these future decision-makers – to be familiar with Bloomberg before they start looking for jobs.” </p>
+<p><strong>CHANGING THE WAY FINANCE IS TAUGHT</strong><br />
+For a more than a decade Bloomberg has had a presence on Ivy League campuses like Harvard, but since 2010 we’ve been ramping up our presence at universities worldwide, working with universities and business schools to bring complex theory to life. Students enrolled in business and finance classes enjoy access to our data and analytics to perform various real-world tasks, such as real-time and historical analysis, tracking multiples with forward-looking data, building custom formulas, and conducting mock trading. They can learn how to analyze financial markets, assess economic scenarios and interpret key news developments that impact the global economy.</p>
+<p>In some cases, students manage real portfolios owned by the school. This practical, real-world experience – and responsibility – builds the skills, confidence and global knowledge needed in a rapidly changing business and financial landscape, and enables graduates to hit the ground running with a differentiating skill set in the global job market.. Students have even petitioned their universities to have terminals installed for their courses (e.g., see <a href="http://bit.ly/wantbbg">here</a> and <a href="http://bit.ly/wantbbg2">here</a>).</p>
+<p><strong>THINKING BEYOND FINANCIAL MARKETS</strong><br />
+But it&#8217;s not just students of business and finance that are harnessing the power of the Bloomberg Professional service to lend a practical edge to their studies. In some schools, students studying human resources are using Bloomberg tools to compare company productivity across industries; students in specialized areas such as corporate governance have developed Bloomberg applications to model Board-level best practices; College of Social Sciences, Health and Education students find Bloomberg’s latest clinical trial data are timelier than those they can access elsewhere, and students studying modern languages are practicing by reading Bloomberg’s extensive collection of foreign newspapers and other periodicals in real time. </p>
+<p>Whatever the discipline, incorporating Bloomberg for Education into the curriculum is giving students a powerful, real-world information advantage. For this next generation of business leaders, the sky&#8217;s the limit. </p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-11/universities-next-emerging-market/">Empowering Students with Real-World Knowledge</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-07-11/universities-next-emerging-market/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bloomberg Launches Free London Newsletter</title>
+		<link>http://www.bloomberg.com/now/2014-07-08/bloomberg-launches-free-london-newsletter/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=bloomberg-launches-free-london-newsletter</link>
+		<comments>http://www.bloomberg.com/now/2014-07-08/bloomberg-launches-free-london-newsletter/#comments</comments>
+		<pubDate>Tue, 08 Jul 2014 08:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[sdoyle37]]></dc:creator>
+				<category><![CDATA[Professional Service]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://now.edit.bloomberg.com/now/?p=16915</guid>
+		<description><![CDATA[<p>Did you hear that Pink Floyd will release its first album in almost 20 years? If not, maybe it&#8217;s time you take a peek at the new London BRIEF. It ran this headline yesterday for the local and global citizens of London who read the daily and free electronic newsletter ... <a class="moretag" href="http://www.bloomberg.com/now/2014-07-08/bloomberg-launches-free-london-newsletter/"> MORE <i class="icon-angle-right"></i></a></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-08/bloomberg-launches-free-london-newsletter/">Bloomberg Launches Free London Newsletter</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/LondonBrief-1.jpg"><img class=" wp-image-16921 alignleft" alt="LondonBrief (1)" src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/LondonBrief-1-257x194.jpg" /></a>Did you hear that Pink Floyd will release its first album in almost 20 years? If not, maybe it&#8217;s time you take a peek at the new London BRIEF. It ran this headline yesterday for the local and global citizens of London who read the daily and free electronic newsletter that showcases the best of Bloomberg&#8217;s coverage of business, politics and culture in the UK capital.</p>
+<p>The BRIEF hits inboxes everyday at 5 pm, London time, with a commuter audience in mind and is a quick four or five pages that includes everything you need to know about what happened in London that day. Since February, we&#8217;ve sent the London BRIEF to a group of commuters working in the Square Mile, Westminster and beyond. Subscriptions quickly ballooned to 10,000, making it the fastest growing newsletter in Bloomberg BRIEF&#8217;s history. It is now being made widely available <a href="http://www.bloombergbriefs.com/london/" target="_blank">online</a>.</p>
+<p>Ted Merz, News Content Business Manager, Bloomberg says: &#8220;Bloomberg is the global leader in delivering fast, accurate and actionable information. Our London BRIEF does all of that in a new design that makes it as easy to read on mobile phones as it is to print out or read on your desktop.&#8221;</p>
+<p><a href="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/Boriswatch.jpg"><img class=" wp-image-16923 alignright" alt="Boriswatch" src="http://www.bloomberg.com/now/content/uploads/sites/2/2014/07/Boriswatch-290x184.jpg" /></a></p>
+<p>The BRIEF utilizes all the best reporting from Bloomberg News and carries original content tailored for UK readers by editor Ainsley Thomson. For example, breaking news from the City and Westminster, an Out of Office section to keep Londoners informed about what&#8217;s happening around town and diverse articles ranging from restaurant, wine and car reviews to profiles and sports reports. Probably our most popular column is Boris Watch, which checks in on London Mayor Boris Johnson each day using photos, tweets and quotes from City Hall.</p>
+<p>The London BRIEF joins the family of 19 Bloomberg BRIEF newsletters which rely on Bloomberg&#8217;s proprietary news, data and analysis. Bloomberg BRIEFs now reach 265,000 global subscribers to the Bloomberg Professional service and can be found at <a href="http://www.bloombergbriefs.com" target="_blank">www.bloombergbriefs.com</a>.</p>
+<p>The launch sponsor of the newsletter is CMC Markets, a leading global provider of financial spread betting, CFD and foreign exchange (FX).</p>
+<p><i> &#8211; Nicholas Ferris, BRIEF Business Manager </i></p>
+<p>The post <a rel="nofollow" href="http://www.bloomberg.com/now/2014-07-08/bloomberg-launches-free-london-newsletter/">Bloomberg Launches Free London Newsletter</a> appeared first on <a rel="nofollow" href="http://www.bloomberg.com/now">Bloomberg Now</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.bloomberg.com/now/2014-07-08/bloomberg-launches-free-london-newsletter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
