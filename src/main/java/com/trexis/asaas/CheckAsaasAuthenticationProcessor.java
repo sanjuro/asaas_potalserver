@@ -11,11 +11,17 @@ import com.backbase.portal.foundation.domain.model.User;
 
 import org.springframework.security.core.context.SecurityContextHolder;
 
+import java.io.BufferedReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
 import javax.inject.Inject;
 
 public class CheckAsaasAuthenticationProcessor implements Processor {
 	
 	private static Logger LOG = LoggerFactory.getLogger(CheckAsaasAuthenticationProcessor.class);
+	
+	private final String USER_AGENT = "Mozilla/5.0";
 	
 	@Inject
 	UserBusinessService userBusinessService;
@@ -28,12 +34,19 @@ public class CheckAsaasAuthenticationProcessor implements Processor {
 				
 				// UserPropertyDefinition bobUsername = user.getPropertyDefinitions().get("bob_username");
 				
-				// LOG.info("Capturing authentication for  " + bobUsername);
+				String url = "https://web8.secureinternetbank.com/EBC_EBC1961";
+				int responseCode = sendGet(url);
 				
-				exchange.getOut().setBody("User is authenticated.");
+				LOG.info("Checking authentication on URL:  " + url);
+				
+				if(responseCode == 200){
+					exchange.getOut().setBody("{'authenticated':'true'}");
+				} else {
+					exchange.getOut().setBody("{'authenticated':'false'}");
+				}
 				
 			} else {
-				exchange.getOut().setBody("User is not authenticated.");
+				exchange.getOut().setBody("{'authenticated':'false'}");
 			}
 		} catch(Exception ex){
 			LOG.info("Unable to check user  " + ex.getMessage());
@@ -43,4 +56,26 @@ public class CheckAsaasAuthenticationProcessor implements Processor {
 
     }
     
+    // https://web8.secureinternetbank.com/EBC_EBC1961
+	private int sendGet(String url) throws Exception {
+		
+		URL obj = new URL(url);
+		HttpURLConnection con = (HttpURLConnection) obj.openConnection();
+
+		// optional default is GET
+		con.setRequestMethod("GET");
+
+		//add request header
+		con.setRequestProperty("User-Agent", USER_AGENT);
+
+		int responseCode = con.getResponseCode();
+		System.out.println("\nSending 'GET' request to URL : " + url);
+		System.out.println("Response Code : " + responseCode);
+
+		//print result
+		System.out.println(responseCode);
+		
+		return responseCode;
+
+	}
 }
