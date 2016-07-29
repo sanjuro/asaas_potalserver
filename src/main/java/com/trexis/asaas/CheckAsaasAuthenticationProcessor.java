@@ -56,24 +56,20 @@ public class CheckAsaasAuthenticationProcessor implements Processor {
 
     }
     
-    // https://web8.secureinternetbank.com/EBC_EBC1961
 	private int sendGet(String url) throws Exception {
 		
 		URL obj = new URL(url);
-		HttpURLConnection con = (HttpURLConnection) obj.openConnection();
+		HttpURLConnection connection = (HttpURLConnection) obj.openConnection();
 
-		// optional default is GET
-		con.setRequestMethod("GET");
+		connection.setRequestMethod("GET");
 
-		//add request header
-		con.setRequestProperty("User-Agent", USER_AGENT);
+		connection.setRequestProperty("User-Agent", USER_AGENT);
 
-		int responseCode = con.getResponseCode();
-		System.out.println("\nSending 'GET' request to URL : " + url);
-		System.out.println("Response Code : " + responseCode);
-
-		//print result
-		System.out.println(responseCode);
+		int responseCode = connection.getResponseCode();
+//		System.out.println("\nSending 'GET' request to URL : " + url);
+//		System.out.println("Response Code : " + responseCode);
+//
+//		System.out.println(responseCode);
 		
 		return responseCode;
 
