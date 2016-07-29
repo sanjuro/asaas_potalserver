@@ -26,10 +26,14 @@ public class CheckAsaasAuthenticationProcessor implements Processor {
 			{
 				User user = (User)SecurityContextHolder.getContext().getAuthentication().getPrincipal();
 				
-				UserPropertyDefinition bobUsername = user.getPropertyDefinitions().get("bob_username");
+				// UserPropertyDefinition bobUsername = user.getPropertyDefinitions().get("bob_username");
 				
-				LOG.info("Capturing authentication for  " + bobUsername);
+				// LOG.info("Capturing authentication for  " + bobUsername);
 				
+				exchange.getOut().setBody("User is authenticated.");
+				
+			} else {
+				exchange.getOut().setBody("User is not authenticated.");
 			}
 		} catch(Exception ex){
 			LOG.info("Unable to check user  " + ex.getMessage());
