@@ -40,9 +40,9 @@ public class CheckAsaasAuthenticationProcessor implements Processor {
 				LOG.info("Checking authentication on URL:  " + url);
 				
 				if(responseCode == 200){
-					exchange.getOut().setBody("{'authenticated':'true'}");
+					exchange.getOut().setBody("true");
 				} else {
-					exchange.getOut().setBody("{'authenticated':'false'}");
+					exchange.getOut().setBody("false");
 				}
 				
 			} else {

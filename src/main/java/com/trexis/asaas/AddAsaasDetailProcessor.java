@@ -45,8 +45,7 @@ public class AddAsaasDetailProcessor implements Processor {
 			}
 		} catch(Exception ex){
 			LOG.info("Unable to capture authentication user with Username:" + userName + " and Password: "  + password + " " + ex.getMessage());
-			
-			exchange.getOut().setHeader(Exchange.HTTP_RESPONSE_CODE, 400);
+
 			throw new Exception("Unable to capture authentication user with Username:" + userName + " and Password: "  + password + " " + ex.getMessage(), ex);
 		}
 	}

@@ -12,7 +12,7 @@
     
 	<camel:routeContext id="com.backbase.portal.integration.service.AsaasService" xmlns="http://camel.apache.org/schema/spring">
 		<route>
-			<from uri="restlet:/v1/asaas/checkUserAuthenticated" />
+			<from uri="restlet:/v1/asaas/checkUserAuthenticated?restletMethods=GET" />
 			<doTry>
   			    <process ref="checkAsaasAuthenticationProcessor"/>
 				<setBody>
@@ -22,6 +22,9 @@
 				</setBody>
 				<doCatch>
 					<exception>java.lang.Exception</exception>
+                    <setHeader headerName="CamelHttpResponseCode">
+                        <constant>400</constant>
+                    </setHeader>
                     <setBody>
                         <simple>
                             {"status":"error", "message" : "${exception.message}"}
@@ -36,7 +39,7 @@
 			</doTry>
 		</route>
 		<route>
-			<from uri="restlet:/v1/asaas/authenticateUser" />
+			<from uri="restlet:/v1/asaas/authenticateUser?restletMethods=POST" />
 			<doTry>
 				<process ref="addAsaasDetailProcessor"/>
 				<setBody>
