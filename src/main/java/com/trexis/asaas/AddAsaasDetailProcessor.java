@@ -39,11 +39,14 @@ public class AddAsaasDetailProcessor implements Processor {
 				setProperty(bbuser, "bob_password", password);
 				bbuser = updateUser(bbuser, userName, password);
 				
-				exchange.getOut().setBody("User authentication was captured.");
+				exchange.getOut().setBody("{'authenticated':'saved'}");
+			} else {
+				exchange.getOut().setBody("{'authenticated':'failed', 'errors':'Cound not authenticate.'}");
 			}
 		} catch(Exception ex){
 			LOG.info("Unable to capture authentication user with Username:" + userName + " and Password: "  + password + " " + ex.getMessage());
 			
+			exchange.getOut().setHeader(Exchange.HTTP_RESPONSE_CODE, 400);
 			throw new Exception("Unable to capture authentication user with Username:" + userName + " and Password: "  + password + " " + ex.getMessage(), ex);
 		}
 	}
